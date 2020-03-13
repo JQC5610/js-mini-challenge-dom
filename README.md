@@ -26,6 +26,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
+DOM has to finish loading, move script to bottom of HTML
 
 ```
 
@@ -57,6 +58,8 @@ Create a DOM element that looks like this for each player and append it to the `
 
 **YOUR NOTES**
 ```
+//create add player function 
+//loop through PLAYERS with add player function
 
 ```
 
